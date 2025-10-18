@@ -21,7 +21,7 @@ A PHP-based employee management application that displays all employees and flag
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/krishbhuva03/php-employee-
    cd employee-management-app
    ```
 
